@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/InkNews/static/css/main.536a8f84.css",
-    "main.js": "/InkNews/static/js/main.6d5615ba.js",
+    "main.js": "/InkNews/static/js/main.85d4e562.js",
     "index.html": "/InkNews/index.html",
     "main.536a8f84.css.map": "/InkNews/static/css/main.536a8f84.css.map",
-    "main.6d5615ba.js.map": "/InkNews/static/js/main.6d5615ba.js.map"
+    "main.85d4e562.js.map": "/InkNews/static/js/main.85d4e562.js.map"
   },
   "entrypoints": [
     "static/css/main.536a8f84.css",
-    "static/js/main.6d5615ba.js"
+    "static/js/main.85d4e562.js"
   ]
 }

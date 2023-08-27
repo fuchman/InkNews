@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
 
-const weatherURL = "https://www.yr.no/en/content/2-3067696/meteogram.svg";
+const weatherURL = "/app/en/content/2-3067696/meteogram.svg";
 const whiteColor = "#ffffff";
 const blackColor = "#000000";
 

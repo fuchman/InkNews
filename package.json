@@ -45,5 +45,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
-  }
+  },
+  "proxy": "https://www.yr.no/"
 }
